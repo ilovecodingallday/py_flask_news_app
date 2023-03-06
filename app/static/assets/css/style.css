@@ -1,0 +1,165 @@
+* {
+    font-family:'Overpass', Tahoma, sans-serif, Geneva, Verdana;
+    background-color: #020202;
+    color: #fff;
+}
+
+p{
+    font-size: 15px;
+}
+
+a {
+    text-decoration: azure;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: azure;
+    color: #fff;
+}
+
+.landing {
+    margin-top: 100px;
+}
+
+#navbarToggle {
+    background-color: #000;
+}
+
+.navbar.navbar-dark .nav-item .nav-link { 
+    color: #fff!important; 
+    background-color: #000;
+} 
+
+.navbar.navbar-dark .nav-item .nav-link:hover { 
+    color: #fff!important; 
+    background-color: #000;
+}
+
+.navbar {
+    background-color: #000!important;
+}
+
+.navbar-nav {
+    background-color: #000;
+    padding-left: 450px;
+}
+
+.navbar-brand {
+    background-color: #000;
+}
+
+.lg {
+    background-color: #000;
+    font-size: xx-large;
+}
+
+h1 {
+    font-size: 33px;
+    color: #dfdcd9;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #dfdcd9;
+}
+
+
+
+
+
+.author {
+    font-size: 12px;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.article-card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    color: #000;
+    background-color: #fff;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+.img {
+    width: 100%;
+}
+
+.image-fluid {
+    height: 18em;
+}
+
+.cardfooter {
+    padding: 0.75rem 1.25rem 0;
+    border-radius: 0 0 10px 10px;
+}
+
+.article_name {
+    color: #dfdcd9;
+}
+
+.source-body {
+    margin-bottom: 40px;
+}
+
+.source {
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: #e08e8e;
+}
+
+.logo {
+    color: #ffffff;
+    background-color: #000;
+}
+
+.svg {
+    background-color: #000;
+}
+
+.p-svg {
+    background-color: #26262a;
+}
+
+
+
+
+.trending {
+    padding-top: 400px;
+    text-align: center;
+
+}
+
+
+
+.footer {
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.footer-text {
+    background-color: #000;
+    margin-bottom: 0;
+}
+
+
+.published {
+    background-color: #1a1a1e;
+}
+
+.card-footer {
+    background-color:  #1a1a1e;
+}
